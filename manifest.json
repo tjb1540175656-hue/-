@@ -1,0 +1,9 @@
+{
+    "display_name": "Draw Inline / 正文自动配图",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "Local extension",
+    "version": "1.0.0"
+}
